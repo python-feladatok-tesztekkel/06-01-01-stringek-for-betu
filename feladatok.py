@@ -13,7 +13,7 @@
 # Készítsen függvényt megszamol_nagybetuket néven
 # A függvénynek két paramétere van:
 #   - a mondat (str)
-# A függvény határozza meg, hogy a keresett betű hányszor szerepel a mondatban
+# A függvény határozza meg, hogy a mondatban hány nagybetű van
 
 # 3. feladat
 # Készítsen függvényt megszamol néven
@@ -26,6 +26,6 @@
 # Készítsen függvényt megszamol_szamokat néven
 # A függvénynek két paramétere van:
 #   - a mondat (str)
-# A függvény határozza meg, hogy a keresett betű hányszor szerepel szám mondatban
+# A függvény határozza meg, hogy a mondatban hány szám szerepel
 
 
